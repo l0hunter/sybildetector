@@ -1,4 +1,4 @@
-source_chain_name,source_hash,source_address,destination_chain_name,destination_hash,destination_address,address,timestamp,token,value
+source_chain_name,source_hash,source_address,destination_chain_name,destination_hash,destination_address,timestamp,token,value
 "BNB Chain","0xfc6ce6d8d3e8d552cb7056e13341cb3d96b876b1de7583eabf51ea550d0ced81","0x97b9d2102a9a65a26e1ee82d59e42d1b73b68689","BNB Chain","0xfc6ce6d8d3e8d552cb7056e13341cb3d96b876b1de7583eabf51ea550d0ced81","0xb00ddf0f49e0583a8a03ad60a57833759d0fdf32","2024-04-27 05:37:32.000","USDV","5013.740226"
 "BNB Chain","0x2e6e36dce2e2880545a274ba7b5e9642105826154cd7476b3bd4160bcc894ce9","0xb00ddf0f49e0583a8a03ad60a57833759d0fdf32","BNB Chain","0x2e6e36dce2e2880545a274ba7b5e9642105826154cd7476b3bd4160bcc894ce9","0x0000000000000000000000000000000000000000","2024-04-27 05:38:56.000","USDV","5013.740226"
 "BNB Chain","0x2e6e36dce2e2880545a274ba7b5e9642105826154cd7476b3bd4160bcc894ce9","0xb00ddf0f49e0583a8a03ad60a57833759d0fdf32","Optimism","0x491a1602c58732c3d3f5d216b9ab9867fb84d8218b0bd0a05ad107b0e546d812","0xb00ddf0f49e0583a8a03ad60a57833759d0fdf32","2024-04-27 05:38:56.000","USDV","5013.74023"
